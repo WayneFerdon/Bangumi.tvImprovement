@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         BangumiHotkey
 // @namespace    http://tampermonkey.net/
-// @version      2025-03-20
+// @version      2026.05.15
+// @downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiHotkey.user.js
+// @updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiHotkey.user.js
 // @description  try to take over the world!
 // @author       WayneFerdon
 // @match      https://bangumi.tv/subject/*
