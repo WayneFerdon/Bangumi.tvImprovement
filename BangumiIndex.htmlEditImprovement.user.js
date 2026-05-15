@@ -1,18 +1,10 @@
-/*
- * @Author: WayneFerdon wayneferdon@hotmail.com
- * @Date: 2026-05-15 20:28:44
- * @LastEditors: WayneFerdon wayneferdon@hotmail.com
- * @LastEditTime: 2026-05-15 21:36:43
- * @FilePath: \Bangumi.tvImprovement\BangumiIndex.htmlEditImprovement.user.js
- * ----------------------------------------------------------------
- * Licensed to the .NET Foundation under one or more agreements.
- * The .NET Foundation licenses this file to you under the MIT license.
- */
 /* eslint-env browser */
 // ==UserScript==
 // @name         Bangumi index.html edit improvement
 // @namespace    BTI.chaucerling.bangumi
 // @include      /https?:\/\/(bgm\.tv|bangumi\.tv|chii\.in)\/$/
+// downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
+// updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
 // @grant        GM_deleteValue
 // @grant        GM_setValue
 // @grant        GM_getValue
