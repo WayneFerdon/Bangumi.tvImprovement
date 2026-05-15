@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         BGMautoloadallandhide
 // @namespace    http://tampermonkey.net/
-// @version      2025-03-25
+// @version      2026.05.15
 // @description  try to take over the world!
 // @author       WayneFerdon
+// @downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BGMautoloadallandhide.user.js
+// @updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BGMautoloadallandhide.user.js
 // @match      https://bangumi.tv/*/browser/*
 // @match      https://bangumi.tv/*/list/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
