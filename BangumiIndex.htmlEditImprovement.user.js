@@ -2,9 +2,10 @@
 // ==UserScript==
 // @name         Bangumi index.html edit improvement
 // @namespace    BTI.chaucerling.bangumi
+// @version 2026.05.15.
 // @include      /https?:\/\/(bgm\.tv|bangumi\.tv|chii\.in)\/$/
-// downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
-// updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
+// @downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
+// @updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
 // @grant        GM_deleteValue
 // @grant        GM_setValue
 // @grant        GM_getValue
