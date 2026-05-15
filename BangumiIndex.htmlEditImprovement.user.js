@@ -1,7 +1,7 @@
 /* eslint-env browser */
 // ==UserScript==
 // @name         Bangumi index.html edit improvement
-// @version 2026.05.15.
+// @version 2026.05.15
 // @include      /https?:\/\/(bgm\.tv|bangumi\.tv|chii\.in)\/$/
 // @downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
 // @updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiIndex.htmlEditImprovement.user.js
