@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         BangumiHotkey
 // @namespace    http://tampermonkey.net/
-// @version      2026.05.15
+// @version      2026.10.12
 // @downloadURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiHotkey.user.js
 // @updateURL https://github.com/WayneFerdon/Bangumi.tvImprovement/raw/refs/heads/main/BangumiHotkey.user.js
 // @description  try to take over the world!
 // @author       WayneFerdon
-// @match      https://bangumi.tv/subject/*
+// @include      /^https?:\/\/(?:www\.)?(?:bgm|bangumi)\.tv\/subject\/\d+\/?$/
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
